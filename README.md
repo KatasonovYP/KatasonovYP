@@ -6,7 +6,9 @@
 🎓 &nbsp;I am currently studying at the BMTSU
 
 🌱 &nbsp;I'm on track with learning more about JS, TS, React and Software Architecture.\
+
 ✍️ &nbsp;In my free time, I enjoy reading, playing the guitar and spending time with family.\
+
 ✉️ &nbsp;You can drop me an email at katasonov-yury@yandex.ru with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 
 
