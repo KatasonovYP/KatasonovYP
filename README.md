@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can drop me an email at katasonov-yury@yandex.ru with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 
 
-[![KatasonovYP's GitHub](https://github-readme-stats.vercel.app/api?username=katasonovyp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/katasonovyp/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katasonovyp&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katasonovyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
