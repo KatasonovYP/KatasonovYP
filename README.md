@@ -12,7 +12,9 @@
 ✉️ &nbsp;You can drop me an email at katasonov-yury@yandex.ru with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.
 
 
-[![KatasonovYP's GitHub](https://github-readme-stats.vercel.app/api?username=katasonovyp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/katasonovyp/github-readme-stats#gh-light-mode-only)
+[![KatasonovYP's GitHub](https://github-readme-stats.vercel.app/api?username=katasonovyp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katasonovyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
